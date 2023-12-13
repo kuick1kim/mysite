@@ -151,5 +151,5 @@ def make_gitignore():
 #  git rebase --quit
 
 
-first_init('https://github.com/kuick1kim/mysite.git')
-
+# make_gitignore()
+update("김민상이")
