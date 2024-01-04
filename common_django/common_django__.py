@@ -26,13 +26,16 @@
 # 앱이 만들어지면
 
 # 6-1-1 static 폴더 만들기
-# 6-1-2 static setting 초기에 변경해 주기
+# 6-1-2 static setting.py 초기에 변경해 주기
 
 # 6-2-1 app 내에 template 폴더 손으로 만들어주기
 # 6-2-2 html 변경할 예정이므로 common_html.py 복사해서 html {% load static %} 변경해주기
 
-# 6-3 app 내에 url 파일이 없다 만들어주기 common_url 주석으로 전부 때려박기
+# 6-3-1 app 내에 url 파일이 없다 만들어주기 
+# 6-3-2 common_url.py 주석으로 전부 때려박기
+
 # 6-4 app 내에 view에 common view 주석으로 때려박고 시작
+
 # 6-5 app 내에 model 에 common model 주석으로 때려박고 시작
 
 #### python manage.py startapp {myapp}
